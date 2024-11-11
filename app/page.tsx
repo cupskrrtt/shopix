@@ -1,7 +1,7 @@
 export default function Home() {
 	return (
-		<section>
-			<p>kntl</p>
+		<section className="container mx-auto">
+			<p>KNTL</p>
 		</section>
 	);
 }
